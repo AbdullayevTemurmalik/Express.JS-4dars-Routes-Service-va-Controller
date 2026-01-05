@@ -1,0 +1,25 @@
+{
+  "name": "express.js-3-dars-routes-service-va-controller",
+  "version": "1.0.0",
+  "description": "Backend applacition",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Node.JS",
+    "Express.JS"
+  ],
+  "author": "TemurMalik",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.1",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
